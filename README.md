@@ -33,9 +33,7 @@ Recipe Details
 
 🚀 How to Run
 
-Clone the repository:
 
-git clone https://github.com/yourusername/recipe-finder.git
 
 
 Open index.html in your favorite browser.
