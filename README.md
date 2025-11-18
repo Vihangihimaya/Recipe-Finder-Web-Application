@@ -1,9 +1,9 @@
-🍲 Recipe Finder App
+### Recipe Finder App
 
 Recipe Finder is a simple and interactive web application built using HTML and CSS. It allows users to browse and explore various recipes with images, making meal planning easier and more visually appealing.
 
 
-💡 Features
+### Features
 
 Browse a variety of recipes with pictures.
 
@@ -14,7 +14,7 @@ Simple HTML & CSS structure – lightweight and fast.
 User-friendly interface for quick recipe discovery.
 
 
-🛠️ Technologies Used
+### Technologies Used
 
 HTML5 – Semantic and structured markup
 
@@ -24,14 +24,14 @@ Optional: Google Fonts / Icons for enhanced visuals
 
 
 
-📸 Screenshots
+### Screenshots
 Homepage
 
 Recipe List
 
 Recipe Details
 
-🚀 How to Run
+### How to Run
 
 
 
@@ -42,7 +42,7 @@ Enjoy exploring recipes!
 
 
 
-✨ Future Improvements
+### Future Improvements
 
 Add search functionality to find recipes by name or ingredient.
 
